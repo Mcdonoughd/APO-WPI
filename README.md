@@ -1,5 +1,5 @@
 Description of files
-last updated on 2/11/18 by Jonathan Sanchez
+last updated on 2/18/18 by Jonathan Sanchez
 
 CPPC/ - old feedback survey (stands for Chapter Program Planning Conference)
 Maintainer/ - Project used to maintain apo-hosted email service
@@ -13,3 +13,37 @@ bin/- misc scripts that probably do something
 conclave/ - scripts and entries for conclave registration @wpi from spring 2000
 delme/ - scripts and executables for handling some sort of registration/survey
 mail/ - mailing lists and email archives from '98, '99, and 2007(?)
+public_html/ - where all of the live site things go
+  /Fall2011Website - Webpages regarding 2011 things: a cake-off, 2011 conclave, and 2011 formal
+  /Javascript - photoApp: a slideshow that interfaces with facebook, console (dont know), and functions (dont know)
+  /MBU - merit badge university site & registration. Very important. No touchy.
+  /Styles - .css styles for site
+  /anniversary - APO-OI 50th Anniversary Celebration website designed and built Summer 2014 by Penn Biggs
+  /bens php - php that used to handle site requests. No longer functional/used
+  /conclave - site used for october 2010 50s themed conclave
+  /conclave2018 - site used for spring 2018 space themed conclave
+  /downloads - slides from 2012 meetings. MIT hosted a conclave that year. Avoid the pony slides.
+  /gallery - handful of 2011 pictures 
+  /images - 2013 pictures  
+  /img copy - see /img
+  /img - more more photos
+  	/photoalbum - 2011 photos (more)
+  /jbcore - files for juicebox.js functionality
+  /lightbox - files for lightbox2 - script to overlay images on top of the current page
+  /lists - 2014 data (emails, positions)
+  /oldwebsites - old websites
+  	/oldsite1 - 2006 site
+  	/oldsite2 - 2008-9 site
+  	/oldsite3 - 2008? site
+  		/media/APO NatCon.wmv - a video from a 2008 national convention. I rate it 3.5/10
+	/oldsite4 - 2011? site
+  /pledge/index.html - spring 2011 pledge class
+  /publists/ - Spring 2016 data
+  /python/ - 2 files that really dont do anything
+  /thumbs/ - thumbnail images
+  /zip/ - 
+  	/lists/ - Spring 2014 data
+  	/publists/ - Spring 2015 data
+regionals/ - registration data from a regionals. Names, nothing sensitive?
+restore/ - names and emails for internal mail service?
+
