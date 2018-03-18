@@ -46,4 +46,19 @@ public_html/ - where all of the live site things go
   	/publists/ - Spring 2015 data
 regionals/ - registration data from a regionals. Names, nothing sensitive?
 restore/ - names and emails for internal mail service?
-
+.bash_history - auto-generated audit trail of the last 1000 bash commands used in console
+.viminfo - auto-generated audit trail of categorized vim activities
+APO.JPG - an undated picture of the chapter. George Kober is in it.
+Mail Packs.doc - info packet for spring 2000 sectionals
+README.md - general record of what is actually in this repo
+X.forward - mail forwarder
+aponews - mailing list for the internal apo mail service. Info from '95-'97
+cdunn - email reciept for cdunn's registration for the spring 2000 conclave
+conclave.tar.gz - archive file containing email chains and relavent files for a conclave in the late 90s
+db.backup - contains names, emails, addresses, phone numbers of many. (nuke pls)
+dead.letter - some kind of auto reply message
+pledge.txt - spring '96 pledge class mailing list
+recruit.html - old site for recruitment
+topleft.gif - picture element for a webpage
+x.login - old login script for when you had to have modems execute a busy signal
+x.tcshrc - macros and environment vars for unix-based c-shell compatible shell
